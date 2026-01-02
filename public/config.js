@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "be8d9b528861e1f9564b8908573d8dab",
   "VITE_APP_NAME": "MilkingMarkets",
   "VITE_APP_DESCRIPTION": "MilkingMarkets: Squeeze deep omnichain liquidity and milk relentless profits on Orderly's premier perps DEX.",
   "VITE_HAS_PRIMARY_LOGO": "true",
