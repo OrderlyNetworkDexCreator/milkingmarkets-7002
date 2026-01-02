@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "MilkingMarkets: Squeeze deep omnichain liquidity and milk relentless profits on Orderly's premier perps DEX.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Vaults,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "Points, https://dex.orderly.network/milkingmarkets-7002/Points",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
